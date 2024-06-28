@@ -82,8 +82,8 @@ section {
      text-align: center
 }
 
-#Autores: {
-    background-color: #F4F6F7 ; /* Color naranja claro */
+#autores {
+    background-color: #F4F6F7; /* Color naranja claro */
      text-align: center
 }
 
@@ -102,4 +102,3 @@ ul {
 li {
     margin: 0.5em 0;
 }
-{
